@@ -1,2 +1,2 @@
 # ai-basics
-Basic AI examples using OpenAI APIs
+Basic AI examples using OpenAI APIs.
